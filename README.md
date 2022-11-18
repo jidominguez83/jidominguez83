@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iván Domínguez</h1>
-<h3 align="center">Soy un apasionado de la tecnología y resolver problemas a través de ella y de siempre aprender cosas nuevas.</h3>
+<h3 align="center">Soy un apasionado de la tecnología, resolver problemas a través de ella y de siempre aprender cosas nuevas.</h3>
 
 - 🌱 I’m currently learning **Laravel, Symphony, NodeJs, ReactJS, Angular, VueJS, Python, Django, Java, Spring**
 
